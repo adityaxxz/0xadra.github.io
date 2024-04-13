@@ -1,0 +1,4 @@
+baseURL = "https://adityaxxz.github.io/0xadra.github.io/"
+languageCode = 'en-us'
+title = '0xAdra Blog'
+theme='PaperMod'
